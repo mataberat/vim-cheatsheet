@@ -19,3 +19,11 @@ Tombol `}` untuk pindah ke akhir paragraf saat ini.\
 Tombol `gg` (dua kali ditekan) untuk pindah ke baris paling atas.\
 Tombol `G` untuk pindah ke baris paling bawah.\
 Tombol `%` untuk pindah dari satu tanda kurng (`{}`, `()`, `()`) ke pasangannya.
+
+### 3. Melakukan Navigasi Sekaligus Masuk ke Insert Mode
+Tombol `a` dipakai untuk masuk ke insert mode di karakter setelah kursor (kebalikan dari tombol `i` yang masuk insert mode di karakter sebelum kursor).\
+Tombol `I` dipakai untuk masuk ke insert mode di awal baris.\
+Tombol `A` dipakai untuk masuk ke insert mode di akhir baris.\
+Tombol `o` dipakai untuk masuk ke insert mode di bawah baris sekarang.\
+Tombol `O` dipakai untuk masuk ke insert mode di atas baris sekarang.\
+Tombol `r` dipakai untuk mengganti satu karakter dibelakang kursor dan masuk ke insert mode.
