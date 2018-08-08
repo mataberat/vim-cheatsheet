@@ -1,5 +1,4 @@
 # vim-cheatsheet
-## Ini adalah cheatsheet untuk daily activity saya dalam menggunakan vim text editor.
 
 ### 1. Navigasi
 Tombol `h` untuk geser ke kiri\
