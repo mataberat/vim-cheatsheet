@@ -37,3 +37,20 @@ Tombol `r` dipakai untuk mengganti satu karakter dibelakang kursor dan masuk ke 
 ### 5. Mencari Sebuah Kata Sekaligus Mengubah Kata
 1. `vim` `namafile.txt`
 2. Tekan `:%s/yang anda cari/kalimat yang menjadi perubahan/g`.
+
+### 6. Menghapus
+Tombol `D` untuk menghapus satu baris tanpa masuk ke insert mode.\
+Tombol `C` untuk menghapus satu baris dan masuk ke insert mode.\
+Tombol `dd` untuk cut satu baris dan `p` untuk paste satu baris yang di cut.
+
+### 7. Block kalimat, copy, cut, dan paste
+Tombol `v` untuk masuk ke visual selection/block mode.\
+Tombol `V` untuk block satu baris.\
+Tombol `y` untuk copy.\
+Tombol `d` untuk cut.\
+Tombol `p` untuk paste dibelakan cursor.\
+Tombol `P` untuk paste didepan cursor
+
+### 8. Undo dan Redo
+Tombol `u` untuk undo.\
+Tombol `Ctrl+R` untuk redo. 
