@@ -34,6 +34,6 @@ Tombol `r` dipakai untuk mengganti satu karakter dibelakang kursor dan masuk ke 
 3. Masukan kalimat yang ingin dicari, dan
 4. Tekan `Enter`.
 
-###. 5. Mencari Sebuah Kata Sekaligus Mengubah Kata
+### 5. Mencari Sebuah Kata Sekaligus Mengubah Kata
 1. `vim` `namafile.txt`
 2. Tekan `:%s/yang anda cari/kalimat yang menjadi perubahan/g`.
