@@ -27,3 +27,9 @@ Tombol `A` dipakai untuk masuk ke insert mode di akhir baris.\
 Tombol `o` dipakai untuk masuk ke insert mode di bawah baris sekarang.\
 Tombol `O` dipakai untuk masuk ke insert mode di atas baris sekarang.\
 Tombol `r` dipakai untuk mengganti satu karakter dibelakang kursor dan masuk ke insert mode.
+
+### 4. Mencari sebuah kata
+1. `vim` `namafile.txt`\
+2. Tekan `/`\
+3. Masukan kalimat yang ingin dicari, dan\
+4. Tekan `Enter`.
