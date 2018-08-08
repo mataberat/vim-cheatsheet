@@ -9,5 +9,13 @@ Tombol `l` untuk geser ke kanan.\
 
 ### 2. Navigasi lainnya
 Tombol `e` untuk pindah ke karakter terakhir di sebuah kata jika berada di posisi lain di kata tersebut atau pindah ke karakter terakhir di kata berikutnya jika sudah berada di huruf terakhir sebuah kata.\
-\
-Tombol `w` untuk pindah ke karakter pertama kata selanjutnya.
+Tombol `w` untuk pindah ke karakter pertama kata selanjutnya.\
+Tombol `b` untuk pindah ke karakter pertama di sebuah kata jika berada di posisi lain di kata berikut atau pindah ke karakter pertama sebuah kata.\
+Tombol `^` untuk pindah ke karakter pertama (tidak termasuk spasi, tab, atau karakter kosong lain) di baris tertentu.\
+Tombol `$` untuk pindah ke karakter terakhir di baris tertentu.\
+Tombol `0` untuk pindah ke kolom pertama di baris tertentu.\
+Tombol `{` untuk pindah ke awal paragraf saat ini.\
+Tombol `}` untuk pindah ke akhir paragraf saat ini.\
+Tombol `gg` (dua kali ditekan) untuk pindah ke baris paling atas.\
+Tombol `G` untuk pindah ke baris paling bawah.\
+Tombol `%` untuk pindah dari satu tanda kurng (`{}`, `()`, `()`) ke pasangannya.
